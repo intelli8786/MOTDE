@@ -1,0 +1,10 @@
+detect_threshold : 0.4
+faceRecognition : True
+faceRecognition_method : mean
+faceRecognition_threshold : 0.38
+recovery_body : True
+recovery_body_method : sr
+recovery_body_threshold : 70
+redetect : True
+redetect_target_min : 0.3
+redetect_threshold : 0.64
